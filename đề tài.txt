@@ -1,0 +1,10 @@
+﻿ss: zaqwsxcde123
+----------------
+Tìm hiểu và triển khai bảo mật
+dịch vụ VoIP dựa trên chủ SIP
+dùng Flexisip
+- Tìm hiểu về phần mềm Flexisip, các tấn công đối với
+máy chủ SIP và giải pháp phòng chống.
+- Cài đặt, cấu hình bảo mật cho máy chủ SIP dùng
+Flexisip
+---------------------------
